@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: David Ismael Puga Puga
+- **Carrera**: Ingenieria en Informatica
+- **Fecha de entrega**: 15 de Abril del 2026
 
 ---
 
